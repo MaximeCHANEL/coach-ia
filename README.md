@@ -58,10 +58,12 @@ URL : https://coach-ia-vosinitiales.onrender.com/
 > **Note pédagogique** : La clé API est fournie ici uniquement dans le cadre de ce TP.  
 > En production, ne jamais exposer une clé dans un dépôt public.
 
+```
 MISTRAL_API_KEY=PM9orSRIT3br1XmGNupKgIctBEpC2dwW
 MISTRAL_MODEL=mistral-small-latest
 DB_PATH=coach.db
 APP_ENV=dev
+```
 
 ## Comment lancer les tests
 
